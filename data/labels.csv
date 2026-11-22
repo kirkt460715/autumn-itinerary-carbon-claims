@@ -1,0 +1,4 @@
+label,offer,reference,minimum_saving,state,issued_at,valid_window
+L1,O1,B1,900,used,2026-11-11,2026-11-10/2026-11-20
+L2,O3,B3,500,active,2026-11-20,2026-11-20/2026-12-09
+L3,O2,B2,700,requested,,2026-11-20/2026-12-09

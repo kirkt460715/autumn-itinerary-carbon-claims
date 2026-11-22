@@ -1,0 +1,4 @@
+notice,offer,action,tour,affected_leg,effective_at,received_at
+C1,O2,cancelled,G091,R09-2,2026-11-10,2026-11-24
+C2,O3,vehicle_unconfirmed,G130,R13-1,2026-11-28,2026-11-21
+C3,O1,actual_detour,G090,R09-3,2026-11-10,2026-11-25

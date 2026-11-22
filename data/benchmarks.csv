@@ -1,0 +1,5 @@
+reference,event_key,region,vehicle,mode,kilometers_low,kilometers_high,size,incoming,outgoing,access,active_since,shared_legs
+B1,T1,R,private,minibus,23,26,10,09:10,15:40,wheelchair,2026-10-01,
+B2,T2,R,charter,coach,28,29,12,09:00,15:45,standard,2026-10-01,
+B3,T1,R,shared-run,coach,16,19,8,09:12,15:50,wheelchair,2026-10-15,R09-1
+B4,T1,R,shuttle,electric,10,12,15,09:40,15:30,standard,2026-10-18,

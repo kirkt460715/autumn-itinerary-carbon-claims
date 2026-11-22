@@ -1,0 +1,4 @@
+offer,route,legs,tour,example_size,minimum_size,incoming,outgoing,accessibility,sell_from,sell_until
+O1,T1,R09-1|R09-2|R09-3,G090,12,8,09:15,15:35,wheelchair,2026-11-10,2026-12-09
+O2,T2,R09-1|R09-2|R09-3,G091,13,9,09:15,15:40,standard,2026-11-10,2026-12-09
+O3,T1,R13-1|R13-2|R13-3,G130,10,8,09:15,15:35,wheelchair,2026-11-20,2026-12-09

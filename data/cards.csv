@@ -1,0 +1,5 @@
+card,edition,offer,parent_card,cohort,state,active_from,active_until
+CA1,ED-A,O1,,cohort-day1,used,2026-11-10,2026-11-20
+CA2,ED-A,O2,CA1,cohort-day1,candidate,2026-11-10,2026-11-20
+CA3,ED-A,O3,,cohort-day2,active,2026-11-20,2026-12-09
+CA4,ED-A,O3,CA3,cohort-day2-extra,candidate,2026-11-25,2026-12-09
