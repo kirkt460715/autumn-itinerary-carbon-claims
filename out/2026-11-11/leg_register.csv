@@ -1,0 +1,65 @@
+leg,vehicle_run,basis,mode,km_lo,km_hi,factor,rate_low,rate_high,emission_low,emission_high,linked_leg,flags
+R00-1,R00,actual,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,
+R00-2,R00,actual,coach,7.00,8.00,Fbus v1,610.00,770.00,4270.00,6160.00,,
+R00-3,R00,actual,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R00-1,
+R00-4,R00,actual,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,
+R01-1,R01,actual,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,
+R01-2,R01,actual,coach,7.00,8.00,Fbus v1,610.00,770.00,4270.00,6160.00,,
+R01-3,R01,actual,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R01-1,
+R01-4,R01,actual,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,
+R02-1,R02,actual,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,
+R02-2,R02,actual,coach,7.00,8.00,Fbus v1,610.00,770.00,4270.00,6160.00,,
+R02-3,R02,actual,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R02-1,
+R02-4,R02,actual,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,
+R03-1,R03,actual,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,
+R03-2,R03,actual,coach,7.00,8.00,Fbus v1,610.00,770.00,4270.00,6160.00,,
+R03-3,R03,actual,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R03-1,
+R03-4,R03,actual,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,
+R04-1,R04,actual,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,
+R04-2,R04,actual,coach,7.00,8.00,Fbus v1,610.00,770.00,4270.00,6160.00,,
+R04-3,R04,actual,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R04-1,
+R04-4,R04,actual,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,
+R05-1,R05,actual,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,
+R05-2,R05,actual,coach,7.00,8.00,Fbus v1,610.00,770.00,4270.00,6160.00,,
+R05-3,R05,actual,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R05-1,
+R05-4,R05,actual,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,
+R06-1,R06,actual,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,
+R06-2,R06,actual,coach,7.00,8.00,Fbus v1,610.00,770.00,4270.00,6160.00,,
+R06-3,R06,actual,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R06-1,
+R06-4,R06,actual,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,
+R07-1,R07,actual,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,
+R07-2,R07,actual,coach,7.00,,Fbus v1,610.00,770.00,4270.00,,,distance_pending
+R07-3,R07,actual,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R07-1,
+R07-4,R07,actual,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,
+R08-1,R08,actual,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,
+R08-2,R08,actual,coach,7.00,8.00,Fbus v1,610.00,770.00,4270.00,6160.00,,
+R08-3,R08,actual,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R08-1,
+R08-4,R08,actual,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,
+R09-1,R09,actual,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,
+R09-2,R09,actual,coach,7.00,8.00,Fbus v1,610.00,770.00,4270.00,6160.00,,
+R09-3,R09,actual,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R09-1,
+R09-4,R09,actual,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,
+R10-1,R10,actual,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,
+R10-2,R10,actual,coach,7.00,8.00,Fbus v1,610.00,770.00,4270.00,6160.00,,
+R10-3,R10,actual,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R10-1,
+R10-4,R10,actual,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,
+R11-1,R11,actual,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,
+R11-2,R11,actual,coach,7.00,8.00,Fbus v1,610.00,770.00,4270.00,6160.00,,
+R11-3,R11,actual,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R11-1,
+R11-4,R11,actual,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,
+R12-1,R12,plan,unconfirmed,20.00,23.00,,,,,,,mode_unconfirmed|factor_missing|boarding_estimated|plan_basis
+R12-2,R12,plan,unconfirmed,7.00,8.00,,,,,,,mode_unconfirmed|factor_missing|boarding_estimated|plan_basis
+R12-3,R12,plan,unconfirmed,20.00,21.00,,,,,,R12-1,mode_unconfirmed|factor_missing|plan_basis
+R12-4,R12,plan,unconfirmed,3.00,5.00,,,,,,,mode_unconfirmed|factor_missing|boarding_estimated|plan_basis
+R13-1,R13,plan,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,boarding_estimated|plan_basis
+R13-2,R13,plan,coach,7.00,8.00,Fbus v1,610.00,770.00,4270.00,6160.00,,boarding_estimated|plan_basis
+R13-3,R13,plan,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R13-1,plan_basis
+R13-4,R13,plan,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,boarding_estimated|plan_basis
+R14-1,R14,plan,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,boarding_estimated|plan_basis
+R14-2,R14,plan,coach,7.00,8.00,Fbus v1,610.00,770.00,4270.00,6160.00,,boarding_estimated|plan_basis
+R14-3,R14,plan,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R14-1,plan_basis
+R14-4,R14,plan,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,boarding_estimated|plan_basis
+R15-1,R15,plan,coach,20.00,23.00,Fbus v1,610.00,770.00,12200.00,17710.00,,boarding_estimated|plan_basis
+R15-2,R15,plan,coach,7.00,8.00,Fbus v1,610.00,770.00,4270.00,6160.00,,boarding_estimated|plan_basis
+R15-3,R15,plan,coach,20.00,21.00,Fbus v1,610.00,770.00,12200.00,16170.00,R15-1,plan_basis
+R15-4,R15,plan,electric,3.00,5.00,Fev v1,170.00,280.00,510.00,1400.00,,boarding_estimated|plan_basis

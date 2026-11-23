@@ -1,0 +1,3 @@
+cohort_scope,included_cards,excluded_cards,total_worst_case_saving,coverage_and_baselines
+cohort-day1,,CA1:标签未获批/已撤下/仅保留历史声明，不形成可合计减排|CA2:标签未获批/已撤下/仅保留历史声明，不形成可合计减排,0.00,
+cohort-day2,,CA3:标签未获批/已撤下/仅保留历史声明，不形成可合计减排|CA4:与总卡同一批孩子同一交通证据，覆盖不独立,0.00,

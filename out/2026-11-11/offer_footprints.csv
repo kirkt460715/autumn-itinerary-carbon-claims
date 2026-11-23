@@ -1,0 +1,4 @@
+offer,tour,children,per_child_low,per_child_high,blocking_flags,assumption_flags,factor_pin
+O1,G090,9,1415.80,1977.28,,,R|coach=Fbus v1;R|electric=Fev v1;R|minibus=Fmini v1;R|unconfirmed=MISSING
+O2,G091,10,1592.78,2224.44,,,R|coach=Fbus v1;R|electric=Fev v1;R|minibus=Fmini v1;R|unconfirmed=MISSING
+O3,G130,9,1470.26,2053.33,,boarding_estimated|plan_basis,R|coach=Fbus v1;R|electric=Fev v1;R|minibus=Fmini v1;R|unconfirmed=MISSING

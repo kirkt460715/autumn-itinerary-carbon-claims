@@ -1,0 +1,4 @@
+notice,offer,action,effective_at,received_at,status,impacts
+C1,O2,cancelled,2026-11-10,2026-11-24,pending_future_receipt,通知尚未送达，本轮不改变在售口径，登记为待处理
+C2,O3,vehicle_unconfirmed,2026-11-28,2026-11-21,pending_future_receipt,通知尚未送达，本轮不改变在售口径，登记为待处理
+C3,O1,actual_detour,2026-11-10,2026-11-25,pending_future_receipt,通知尚未送达，本轮不改变在售口径，登记为待处理

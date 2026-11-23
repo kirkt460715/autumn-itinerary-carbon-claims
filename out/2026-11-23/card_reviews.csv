@@ -1,0 +1,5 @@
+card,parent_card,offer,cohort,on_sale_action,window_covered,independent_contribution,coverage_key,reasons
+CA1,,O1,cohort-day1,retain,True,True,G090|R09-1|R09-2|R09-3,as_of=2026-11-23 已超出在售窗口，行程已兑现，保留原声明与结算说明
+CA2,CA1,O2,cohort-day1,not_on_sale,False,True,G091|R09-1|R09-2|R09-3,卡片售卖窗口超出标签 valid_window，标签不适用该窗口；支线卡 CA2 另售给不同组（G091，父卡为 G090），共享车次按各团份额分别认领，独立贡献成立；as_of=2026-11-23 不在卡片在售窗口内
+CA3,,O3,cohort-day2,withdraw_label,True,True,G130|R13-1|R13-2|R13-3,
+CA4,CA3,O3,cohort-day2-extra,not_on_sale,True,False,G130|R13-1|R13-2|R13-3,支线卡 CA4 引用总卡 CA3 同一批孩子（G130）的实际交通，不另计独立减排，专题合计不得重复；as_of=2026-11-23 不在卡片在售窗口内
